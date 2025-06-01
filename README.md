@@ -7,7 +7,7 @@ This repository documents my self-paced learning to become a SOC Analyst. It inc
 - Practice using SIEMs, log analysis, and incident response
 - Complete cybersecurity labs and document findings
 
-## 📅 Day 1 – Basics
+## 📅 Day 1 – Cybersecurity Basics
 
 | **Concept**         | **Description**                                                                         |
 | ------------------- | --------------------------------------------------------------------------------------- |
