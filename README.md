@@ -20,7 +20,7 @@ This repository documents my self-paced learning to become a SOC Analyst. It inc
 ## 📅 Day 2 – Risk Response Strategy
 
 | **Risk Response Strategy** | **Description** | **Example** |
-|----------------------------|----------------|-------------|
+|----------------------------|----------------|------------- |
 | **Acceptance**   | The organization acknowledges the risk and is prepared to handle any consequences. | A company knows a new product may have some defects but launches it anyway, ready to fix issues if they arise                                                                                                                                                                                 |
 | **Reduction**    | Steps are taken to minimize the risk by lowering its likelihood or impact.         | A business installs security software to reduce the chance of cyberattacks  |
 | **Transference** | The risk is shifted to another party to manage its impact.                         | A company buys insurance to cover potential financial losses from accidents |
