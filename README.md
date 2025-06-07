@@ -3,7 +3,7 @@ This repository documents my self-paced learning to become a SOC Analyst. It inc
 
 ## 🎯 Goals
 
-- Build real-world SOC Analyst skills
+- Build real-world SOC Analyst skills.
 - Practice using SIEMs, log analysis, and incident response
 - Complete cybersecurity labs and document findings
 
